@@ -1,0 +1,3 @@
+# The requirements.dev.txt file is used to install development dependencies.
+flake8>=3.9.2,<3.10
+
